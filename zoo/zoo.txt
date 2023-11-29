@@ -1,0 +1,5 @@
+en caso de que encuentres un atributo que podria ser calculado, indica cual es y en que tabla se encontraria.
+Indicar que tablas tendria que consultar para obtener su valor, en este caso, seria de itinerario a zona itinerarios, zona y luego a especie
+Indicar si decidirias dejarlo o quitarlo y por que, si respondo que lo dejo hay que justificarlo porque es una informacion que se consulta con frecuencia y la consulta es muy costosa porque implica muchas tablas
+pero debo de mantener el atributo siempre actualizado utilizando un trigger.
+Si se indica que el atributo no se va a poner es porque se entiende que este aatributo casi nunca se consultar
